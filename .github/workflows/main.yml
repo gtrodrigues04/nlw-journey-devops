@@ -32,8 +32,8 @@ jobs:
           push: true
           tags: |
             tags: |
-              gtrodrgues04/nlw.api:${{ steps.generate_sha.outputs.sha }}
-              gtrodrgues04/nlw.api:latest
+              gtrodrigues04/nlw.api:${{ steps.generate_sha.outputs.sha }}
+              gtrodrigues04/nlw.api:latest
 
 
         
