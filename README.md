@@ -1,3 +1,3 @@
 # nlw-journey-go
 
-- Trilha devOps
+ Trilha devOps
